@@ -1,0 +1,3 @@
+<div class="catalog-container" *ngFor="let item of items">
+  <ng-container *ngComponentOutlet="itemComponent; injector: createInjector(item)"></ng-container>
+</div>

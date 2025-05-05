@@ -1,0 +1,47 @@
+<form #form="ngForm">
+  <div class="form-container">
+    <label for="email">E-Mail</label>
+    <input
+      id="email"
+      name="email"
+      [(ngModel)]="loginForm.email"
+      type="email"
+      #email="ngModel"
+      required
+      pattern="^[a-zA-Z0-9.!#$%&’*+/=?^_{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$"
+    />
+    <div class="alert" *ngIf="email.invalid && email.touched">
+      Введите корректный email
+    </div>
+
+    <label for="password">Пароль</label>
+    <input
+      id="password"
+      name="password"
+      [(ngModel)]="loginForm.password"
+      type="password"
+      #passwd="ngModel"
+      required
+      minlength="6"
+    />
+    <div class="alert" *ngIf="passwd.invalid && passwd.touched">
+      Пароль должен быть не менее 6 символов
+    </div>
+
+    <div class="button-group">
+      <button
+        type="submit"
+        class="btn primary-btn"
+        [disabled]="form.invalid"
+      (click)="login()">
+        Вход
+      </button>
+      <button
+        type="button"
+        class="btn secondary-btn"
+        (click)="register()">
+        Регистрация
+      </button>
+    </div>
+  </div>
+</form>

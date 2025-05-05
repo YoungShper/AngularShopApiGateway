@@ -1,0 +1,33 @@
+
+<div [ngClass]="layout === 'vertical' ? 'card-vertical' : 'card-horizontal'" style="cursor:pointer;" (click)="this.goToItem(item)">
+  <img *ngIf="isProduct(item); else _article" src="/placeholder.jpg">
+
+  <ng-template #_article>
+    <img src="/placeholderArticles.jpg">
+  </ng-template>
+  <div class="card-list">
+    <h3>{{item.name}}</h3>
+    <p class="description" *ngIf="isProduct(item) && layout === 'horizontal'">
+      {{ item.description }}</p>
+    <span class="price" *ngIf="isProduct(item)">
+  {{ item.price }} ₽
+</span>
+  </div>
+</div>
+
+
+<!--
+<div class="card-item" style="cursor:pointer;" (click)="this.goToItem(item)">
+  <img *ngIf="isProduct(item); else _article" src="/placeholder.jpg">
+
+  <ng-template #_article>
+    <img src="/placeholderArticles.jpg">
+  </ng-template>
+  <div class="card-list">
+    <h3>{{item.name}}</h3>
+    <span class="price" *ngIf="isProduct(item)">
+  {{ item.price }} ₽
+</span>
+  </div>
+</div>
+-->

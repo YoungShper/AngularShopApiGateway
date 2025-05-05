@@ -1,0 +1,4 @@
+<header>{{this.carouselHeader}}</header>
+<swiper-container loop="false" navigation="true" mousewheel="false" [breakpoints]="breakpoints">
+  <swiper-slide *ngFor="let item of items"><ng-container *ngComponentOutlet="itemComponent; injector: createInjector(item)"></ng-container></swiper-slide>
+</swiper-container>

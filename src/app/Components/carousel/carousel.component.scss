@@ -1,0 +1,24 @@
+swiper-slide {
+  height: 300px;
+  width: 200px;
+  margin-top: 20px;
+}
+
+swiper-container{
+  height: 320px;
+  width: 100%;
+}
+
+header {
+  padding-left: 8px;
+  margin-top: 24px;
+  font-size: 26px;
+  font-weight: 600;
+  color: #f0f0f0;
+  height: 31px;
+  overflow: hidden;
+
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}

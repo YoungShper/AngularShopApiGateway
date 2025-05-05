@@ -1,0 +1,84 @@
+.form-container {
+  width: 320px;
+  margin: 80px auto;
+  padding: 30px 25px;
+  background-color: #181818;
+  border-radius: 10px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5);
+  font-family: 'Segoe UI', sans-serif;
+  color: #f9f9f9;
+}
+
+.form-container label {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #eaeaea;
+}
+
+.form-container input {
+  width: 290px;
+  padding: 10px 14px;
+  margin-bottom: 8px;
+  border: 1px solid #333;
+  border-radius: 6px;
+  background-color: #2c2c2c;
+  color: #fff;
+  font-size: 14px;
+  transition: all 0.2s ease-in-out;
+}
+
+.form-container input.ng-invalid.ng-touched {
+  border-color: #e53935;
+  box-shadow: 0 0 5px rgba(229, 57, 53, 0.6);
+}
+
+.form-container input:focus {
+  border-color: #4caf50;
+  outline: none;
+  box-shadow: 0 0 5px rgba(76, 175, 80, 0.6);
+}
+
+.alert {
+  font-size: 13px;
+  color: #ff6b6b;
+  margin-bottom: 12px;
+}
+
+.button-group {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.btn {
+  flex: 1;
+  padding: 10px 0;
+  font-size: 14px;
+  font-weight: bold;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.primary-btn {
+  background-color: #4caf50;
+  color: #fff;
+}
+
+.primary-btn:disabled {
+  background-color: #3a6b3f;
+  cursor: not-allowed;
+}
+
+.secondary-btn {
+  background-color: #3b3b3b;
+  color: #fff;
+}
+
+.secondary-btn:hover {
+  background-color: #505050;
+}

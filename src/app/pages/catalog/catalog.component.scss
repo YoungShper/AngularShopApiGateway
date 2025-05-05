@@ -1,0 +1,14 @@
+.filters
+{
+  flex: 1;
+
+}
+.catalog{
+  flex: 3;
+  flex-direction: column;
+}
+.catalog-container{
+  display: flex;
+  min-height: 100vh;
+}
+
