@@ -32,7 +32,8 @@ export class CarouselComponent
   createInjector(item: any): Injector {
     return Injector.create({
       providers: [
-        {provide: 'item', useValue: item}
+        {provide: 'item', useValue: item},
+        {provide: 'align', useValue: 'vertical'},
       ],
       parent: this.injector
     });

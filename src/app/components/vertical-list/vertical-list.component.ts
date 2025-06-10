@@ -22,7 +22,8 @@ export class VerticalListComponent {
   createInjector(item: any): Injector {
     return Injector.create({
       providers: [
-        {provide: 'item', useValue: item}
+        {provide: 'item', useValue: item},
+        {provide: 'align', useValue: 'horizontal'},
       ],
       parent: this.injector
     });

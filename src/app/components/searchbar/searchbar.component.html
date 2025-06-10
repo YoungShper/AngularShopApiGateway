@@ -1,0 +1,4 @@
+<div class="search-container">
+  <input type="text" class="search-input" [(ngModel)]="searchQuery" (keydown.enter)="emitSearch()" placeholder="Поиск...">
+  <button class="search-button" (click)="emitSearch()">🔍</button>
+</div>
