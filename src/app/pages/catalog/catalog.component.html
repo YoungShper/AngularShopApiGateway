@@ -1,8 +1,26 @@
 <div class="catalog-container">
   <div class="filters">
+    <label class="filters-header">Фильтры</label>
+    <div *ngFor="let category of categories" class="filter-item">
+      <label>
+        <input type="checkbox"
+               [value]="category.id"
+               [(ngModel)]="selectedCategories[category.id]" />
+        {{ category.name }}
+      </label>
+    </div>
+    <div class="price-filter">
+      <label>Цена от:</label>
+      <input type="number" [(ngModel)]="priceFrom" placeholder="0" />
 
+      <label>до:</label>
+      <input type="number" [(ngModel)]="priceTo" placeholder="10000" />
+    </div>
+    <button class="btn-apply" (click)="onFiltersChanged()">Применить</button>
   </div>
   <div class="catalog">
+    <app-searchbar (search)="onSearch($event)"></app-searchbar>
     <app-vertical-list [items]="products" [itemComponent]="itemCardComponent"></app-vertical-list>
+    <app-pagination [totalPages]="totalPages"  (currentPageEmitter)="onPageChanged($event)"></app-pagination>
   </div>
 </div>

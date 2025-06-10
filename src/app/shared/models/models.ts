@@ -6,12 +6,21 @@ export interface ItemBase
 }
 
 export interface Article extends ItemBase {
-
+  description: string;
 }
 
 export interface Product extends ItemBase {
   price: number;
-  image: string;
+  quantity: number;
+  discountPrice: number;
+  category_id: string;
   description: string;
-  category: string;
+}
+
+export interface CategoryModel extends ItemBase {
+}
+
+export interface PagedData<T extends ItemBase> {
+  items: T[];
+  totalPages: number;
 }
