@@ -1,0 +1,13 @@
+<div class="cart-frame">
+  <div *ngIf="products.length === 0" class="empty-cart">
+    Ваша корзина пуста.
+  </div>
+
+  <div *ngIf="products.length > 0" class="cart-items">
+    <app-vertical-list [items]="products" [itemComponent]="itemCardComponent"></app-vertical-list>
+    <div class="cart-summary">
+      <div class="total">Итого: {{ getTotalPrice() | currency:'RUB' }}</div>
+      <button *ngIf="isActual" class="btn-checkout" (click)="checkout()">Оформить заказ</button>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,60 @@
+<div class="product-form">
+  <h2>{{ isEditMode ? 'Редактировать товар' : 'Создать новый товар' }}</h2>
+  <div
+    class="image-upload"
+    (dragover)="onDragOver($event)"
+    (dragleave)="onDragLeave($event)"
+    (drop)="onDrop($event)"
+    [class.dragging]="isDragging"
+  >
+    <p>Перетащите сюда изображение или нажмите, чтобы выбрать файл</p>
+    <input type="file" accept="image/*" (change)="onFileSelected($event)" hidden #fileInput />
+    <button type="button" (click)="fileInput.click()">Выбрать файл</button>
+
+    <div *ngIf="previewUrl">
+      <p>Превью изображения:</p>
+      <img [src]="previewUrl" alt="Preview" style="max-width: 200px; max-height: 200px;" />
+    </div>
+  </div>
+
+  <form *ngIf="form" [formGroup]="form" (ngSubmit)="onSubmit()">
+    <div
+      class="form-group"
+      *ngFor="let field of [
+        { name: 'name', label: 'Название', type: 'text' },
+        { name: 'className', label: 'Класс', type: 'text' },
+        { name: 'price', label: 'Цена', type: 'number' },
+        { name: 'discountPrice', label: 'Цена со скидкой', type: 'number' },
+        { name: 'quantity', label: 'Количество', type: 'number' },
+        { name: 'description', label: 'Описание', type: 'text' },
+        { name: 'protein', label: 'Белки', type: 'number' },
+        { name: 'fats', label: 'Жиры', type: 'number' },
+        { name: 'carbs', label: 'Углеводы', type: 'number' },
+        { name: 'calories', label: 'Калории', type: 'number' }
+      ]"
+    >
+      <label [for]="field.name">{{ field.label }}</label>
+      <input
+        [type]="field.type"
+        [id]="field.name"
+        [formControlName]="field.name"
+        [placeholder]="field.label"
+      />
+    </div>
+
+    <!-- Выпадающий список категорий -->
+    <div class="form-group">
+      <label for="categoryId">Категория</label>
+      <select id="categoryId" formControlName="categoryId">
+        <option value=''>-- Выберите категорию --</option>
+        <option *ngFor="let category of categories" [value]="category.id">
+          {{ category.name }}
+        </option>
+      </select>
+    </div>
+
+    <button type="submit" [disabled]="form?.invalid">
+      {{ isEditMode ? 'Обновить' : 'Создать' }}
+    </button>
+  </form>
+</div>
