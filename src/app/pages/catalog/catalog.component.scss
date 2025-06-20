@@ -98,3 +98,27 @@
   letter-spacing: 1px;
 }
 
+.add-button {
+  background-color: #4caf50; /* насыщенный зелёный */
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  margin-bottom: 1rem;
+  transition: background-color 0.2s, transform 0.2s;
+}
+
+.add-button:hover {
+  background-color: #45a045;
+  transform: scale(1.02);
+}
+
+
+
+.add-button:active {
+  transform: scale(0.98);
+}
+

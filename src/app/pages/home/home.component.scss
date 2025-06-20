@@ -16,3 +16,19 @@
   font-weight: 400;
   color: #ccc;
 }
+
+.add-button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 0.4rem 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  margin: 0.5rem 0;
+  transition: background-color 0.2s;
+}
+
+.add-button:hover {
+  background-color: #45a045;
+}

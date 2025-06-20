@@ -6,7 +6,7 @@
   <div *ngIf="products && products.length > 0;">
     <app-carousel [carouselHeader]="'Хиты продаж'"  [items]="products" [itemComponent]="itemCardComponent">
     </app-carousel>
-    <app-carousel [carouselHeader]="'Акции и скидки'"  [items]="products" [itemComponent]="itemCardComponent">
+    <app-carousel [carouselHeader]="'Акции и скидки'"  [items]="discountProducts" [itemComponent]="itemCardComponent">
     </app-carousel>
   </div>
   <div *ngIf="articles && articles.length > 0">

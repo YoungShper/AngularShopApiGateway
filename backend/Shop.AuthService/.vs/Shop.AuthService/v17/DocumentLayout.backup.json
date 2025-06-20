@@ -1,0 +1,409 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\diplom\\Shop.AuthService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|c:\\diplom\\shop.authservice\\shop.authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|solutionrelative:shop.authservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|c:\\diplom\\shop.authservice\\shop.authservice\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|solutionrelative:shop.authservice\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|c:\\diplom\\shop.authservice\\shop.authservice\\interfaces\\irabbitmqprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|solutionrelative:shop.authservice\\interfaces\\irabbitmqprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|c:\\diplom\\shop.authservice\\shop.authservice\\dbproviders\\rabbitmqprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|solutionrelative:shop.authservice\\dbproviders\\rabbitmqprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|c:\\diplom\\shop.authservice\\shop.authservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|solutionrelative:shop.authservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|c:\\diplom\\shop.authservice\\shop.authservice\\interfaces\\auth\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|solutionrelative:shop.authservice\\interfaces\\auth\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|c:\\diplom\\shop.authservice\\shop.authservice\\interfaces\\auth\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|solutionrelative:shop.authservice\\interfaces\\auth\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|c:\\diplom\\shop.authservice\\shop.authservice\\interfaces\\idbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|solutionrelative:shop.authservice\\interfaces\\idbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|c:\\diplom\\shop.authservice\\shop.authservice\\interfaces\\idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|solutionrelative:shop.authservice\\interfaces\\idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|c:\\diplom\\shop.authservice\\shop.authservice\\interfaces\\imessagepublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|solutionrelative:shop.authservice\\interfaces\\imessagepublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|c:\\diplom\\shop.authservice\\shop.authservice\\services\\usermanagmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|solutionrelative:shop.authservice\\services\\usermanagmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|c:\\diplom\\shop.authservice\\shop.authservice\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|solutionrelative:shop.authservice\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|c:\\diplom\\shop.authservice\\shop.authservice\\interfaces\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|solutionrelative:shop.authservice\\interfaces\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|c:\\diplom\\shop.authservice\\shop.authservice\\services\\authuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|solutionrelative:shop.authservice\\services\\authuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|c:\\diplom\\shop.authservice\\shop.authservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|solutionrelative:shop.authservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|c:\\diplom\\shop.authservice\\shop.authservice\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|solutionrelative:shop.authservice\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|c:\\diplom\\shop.authservice\\shop.authservice\\dbproviders\\postgresprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|solutionrelative:shop.authservice\\dbproviders\\postgresprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|c:\\diplom\\shop.authservice\\shop.authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|solutionrelative:shop.authservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|c:\\diplom\\shop.authservice\\shop.authservice\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|solutionrelative:shop.authservice\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|c:\\diplom\\shop.authservice\\shop.authservice\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|solutionrelative:shop.authservice\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|c:\\diplom\\shop.authservice\\shop.authservice\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|solutionrelative:shop.authservice\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|c:\\diplom\\shop.authservice\\shop.authservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BC39CD7-691F-41E3-A9B1-4E666ECF23A8}|Shop.AuthService\\Shop.AuthService.csproj|solutionrelative:shop.authservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Repository\\CategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shop.AuthService\\Repository\\CategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitMQPublisher.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\RabbitMQPublisher.cs",
+              "RelativeDocumentMoniker": "Shop.AuthService\\RabbitMQPublisher.cs",
+              "ToolTip": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\RabbitMQPublisher.cs*",
+              "RelativeToolTip": "Shop.AuthService\\RabbitMQPublisher.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:48:12.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDBService.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Interfaces\\IDBService.cs",
+              "RelativeDocumentMoniker": "Shop.AuthService\\Interfaces\\IDBService.cs",
+              "ToolTip": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Interfaces\\IDBService.cs",
+              "RelativeToolTip": "Shop.AuthService\\Interfaces\\IDBService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:24:34.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDbRepository.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Interfaces\\IDbRepository.cs",
+              "RelativeDocumentMoniker": "Shop.AuthService\\Interfaces\\IDbRepository.cs",
+              "ToolTip": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Interfaces\\IDbRepository.cs",
+              "RelativeToolTip": "Shop.AuthService\\Interfaces\\IDbRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:25:57.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Interfaces\\Auth\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "Shop.AuthService\\Interfaces\\Auth\\IJwtProvider.cs",
+              "ToolTip": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Interfaces\\Auth\\IJwtProvider.cs",
+              "RelativeToolTip": "Shop.AuthService\\Interfaces\\Auth\\IJwtProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:27:19.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuth.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Interfaces\\Auth\\IAuth.cs",
+              "RelativeDocumentMoniker": "Shop.AuthService\\Interfaces\\Auth\\IAuth.cs",
+              "ToolTip": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Interfaces\\Auth\\IAuth.cs",
+              "RelativeToolTip": "Shop.AuthService\\Interfaces\\Auth\\IAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:27:22.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Shop.AuthService\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "Shop.AuthService\\Controllers\\UserController.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T02:08:37.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Program.cs",
+              "RelativeDocumentMoniker": "Shop.AuthService\\Program.cs",
+              "ToolTip": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Program.cs*",
+              "RelativeToolTip": "Shop.AuthService\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T15:14:13.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRabbitMQProvider.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Interfaces\\IRabbitMQProvider.cs",
+              "RelativeDocumentMoniker": "Shop.AuthService\\Interfaces\\IRabbitMQProvider.cs",
+              "ToolTip": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Interfaces\\IRabbitMQProvider.cs*",
+              "RelativeToolTip": "Shop.AuthService\\Interfaces\\IRabbitMQProvider.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:34:57.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RabbitMQProvider.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\DBProviders\\RabbitMQProvider.cs",
+              "RelativeDocumentMoniker": "Shop.AuthService\\DBProviders\\RabbitMQProvider.cs",
+              "ToolTip": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\DBProviders\\RabbitMQProvider.cs*",
+              "RelativeToolTip": "Shop.AuthService\\DBProviders\\RabbitMQProvider.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:38:03.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMessagePublisher.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Interfaces\\IMessagePublisher.cs",
+              "RelativeDocumentMoniker": "Shop.AuthService\\Interfaces\\IMessagePublisher.cs",
+              "ToolTip": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Interfaces\\IMessagePublisher.cs*",
+              "RelativeToolTip": "Shop.AuthService\\Interfaces\\IMessagePublisher.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:48:56.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserManagmentService.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Services\\UserManagmentService.cs",
+              "RelativeDocumentMoniker": "Shop.AuthService\\Services\\UserManagmentService.cs",
+              "ToolTip": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Services\\UserManagmentService.cs*",
+              "RelativeToolTip": "Shop.AuthService\\Services\\UserManagmentService.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwB0AAACnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T02:38:23.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Interfaces\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "Shop.AuthService\\Interfaces\\IPasswordHasher.cs",
+              "ToolTip": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Interfaces\\IPasswordHasher.cs",
+              "RelativeToolTip": "Shop.AuthService\\Interfaces\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:27:07.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserManager.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Interfaces\\IUserManager.cs",
+              "RelativeDocumentMoniker": "Shop.AuthService\\Interfaces\\IUserManager.cs",
+              "ToolTip": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Interfaces\\IUserManager.cs",
+              "RelativeToolTip": "Shop.AuthService\\Interfaces\\IUserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T02:34:06.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthUserService.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Services\\AuthUserService.cs",
+              "RelativeDocumentMoniker": "Shop.AuthService\\Services\\AuthUserService.cs",
+              "ToolTip": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Services\\AuthUserService.cs*",
+              "RelativeToolTip": "Shop.AuthService\\Services\\AuthUserService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:29:17.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Shop.AuthService\\appsettings.Development.json",
+              "ToolTip": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\appsettings.Development.json*",
+              "RelativeToolTip": "Shop.AuthService\\appsettings.Development.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-31T15:09:17.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Shop.AuthService\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Repository\\UserRepository.cs*",
+              "RelativeToolTip": "Shop.AuthService\\Repository\\UserRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:44:56.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PostgresProvider.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\DBProviders\\PostgresProvider.cs",
+              "RelativeDocumentMoniker": "Shop.AuthService\\DBProviders\\PostgresProvider.cs",
+              "ToolTip": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\DBProviders\\PostgresProvider.cs",
+              "RelativeToolTip": "Shop.AuthService\\DBProviders\\PostgresProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T15:08:49.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\appsettings.json",
+              "RelativeDocumentMoniker": "Shop.AuthService\\appsettings.json",
+              "ToolTip": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\appsettings.json",
+              "RelativeToolTip": "Shop.AuthService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-31T15:09:13.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "Shop.AuthService\\JwtProvider.cs",
+              "ToolTip": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\JwtProvider.cs*",
+              "RelativeToolTip": "Shop.AuthService\\JwtProvider.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:31:39.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Shop.AuthService\\PasswordHasher.cs",
+              "ToolTip": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\PasswordHasher.cs",
+              "RelativeToolTip": "Shop.AuthService\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:33:14.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Shop.AuthService\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Shop.AuthService\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:26:47.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Shop.AuthService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Shop.AuthService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-31T15:14:21.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Shop.AuthService\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Shop.AuthService\\Repository\\CategoryRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T15:12:31.349Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

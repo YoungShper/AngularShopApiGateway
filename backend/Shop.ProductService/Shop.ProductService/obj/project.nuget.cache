@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "jutRw2p7xec=",
+  "success": true,
+  "projectFilePath": "C:\\diplom\\Shop.ProductService\\Shop.ProductService\\Shop.ProductService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shper\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
+    "C:\\Users\\Shper\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Shper\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Shper\\.nuget\\packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",
+    "C:\\Users\\Shper\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512",
+    "C:\\Users\\Shper\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\8.1.2\\swashbuckle.aspnetcore.swagger.8.1.2.nupkg.sha512",
+    "C:\\Users\\Shper\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\8.1.2\\swashbuckle.aspnetcore.swaggergen.8.1.2.nupkg.sha512",
+    "C:\\Users\\Shper\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\8.1.2\\swashbuckle.aspnetcore.swaggerui.8.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

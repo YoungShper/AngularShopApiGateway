@@ -20,13 +20,19 @@ import {ItemCardComponent} from '../../components/item-card/item-card.component'
 export class HomeComponent implements OnInit {
 
   public products!: Product[];
+  public discountProducts!: Product[];
   public articles! : Article[];
   protected readonly itemCardComponent = ItemCardComponent;
   constructor(private http: HttpService) {
   }
 
   ngOnInit(): void {
+
+    const params:any ={
+      discount:true
+    }
         this.http.getData<Article>('articles').subscribe(articles => this.articles = articles);
-    this.http.getData<Product>('products').subscribe(prod =>  this.products = prod);
+    this.http.getPagedData<Product>('products').subscribe(prod =>  this.products = prod.items);
+    this.http.getPagedData<Product>('products', params).subscribe(prod =>  this.discountProducts = prod.items);
   }
 }

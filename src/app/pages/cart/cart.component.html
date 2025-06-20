@@ -1,1 +1,13 @@
-<p>cart works!</p>
+<div class="cart-container">
+  <h2 class="cart-header">Корзина</h2>
+  <div *ngFor="let item of actualCartItems">
+    <app-cart-item [id]="item.id" [products]="item.products" [isActual]="item.isActual">
+    </app-cart-item>
+  </div>
+
+  <h2 class="cart-header">История заказов</h2>
+  <div *ngFor="let item of unActualCartItems">
+    <app-cart-item [id]="item.id" [products]="item.products" [isActual]="item.isActual">
+    </app-cart-item>
+  </div>
+</div>

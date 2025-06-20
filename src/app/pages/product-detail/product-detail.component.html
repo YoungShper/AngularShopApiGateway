@@ -1,0 +1,26 @@
+<div class="item-page-container" *ngIf="item">
+  <div class="item-content">
+    <div class="item-image">
+      <img [src]="'/placeholder.jpg'" alt="Product Image">
+    </div>
+    <div class="item-details">
+      <h1 class="item-title">{{ item.name }}</h1>
+      <div class="item-price">{{ item.price }} ₽</div>
+      <p class="item-description">{{ item.description }}</p>
+      <div class="nutrition">
+        <span>КБЖУ/100г:  </span>
+        <span>{{ item.calories }}/</span>
+        <span>{{ item.protein }}/</span>
+        <span>{{ item.fats }}/</span>
+        <span>{{ item.carbs }}</span>
+      </div>
+      <button
+        class="btn-green"
+        [disabled]="!isAddable()"
+        [ngClass]="{ 'btn-disabled': !isAddable() }"
+        (click)="addToCart(item)">
+        В корзину
+      </button>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\diplom\\Shop.ApiGateWay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0118E1-B19C-4F5E-AEBE-204106155DE3}|Shop.ApiGateWay\\Shop.ApiGateWay.csproj|c:\\diplom\\shop.apigateway\\shop.apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0118E1-B19C-4F5E-AEBE-204106155DE3}|Shop.ApiGateWay\\Shop.ApiGateWay.csproj|solutionrelative:shop.apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0118E1-B19C-4F5E-AEBE-204106155DE3}|Shop.ApiGateWay\\Shop.ApiGateWay.csproj|c:\\diplom\\shop.apigateway\\shop.apigateway\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0118E1-B19C-4F5E-AEBE-204106155DE3}|Shop.ApiGateWay\\Shop.ApiGateWay.csproj|solutionrelative:shop.apigateway\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0118E1-B19C-4F5E-AEBE-204106155DE3}|Shop.ApiGateWay\\Shop.ApiGateWay.csproj|c:\\diplom\\shop.apigateway\\shop.apigateway\\controllers\\baseapigatewaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0118E1-B19C-4F5E-AEBE-204106155DE3}|Shop.ApiGateWay\\Shop.ApiGateWay.csproj|solutionrelative:shop.apigateway\\controllers\\baseapigatewaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0118E1-B19C-4F5E-AEBE-204106155DE3}|Shop.ApiGateWay\\Shop.ApiGateWay.csproj|c:\\diplom\\shop.apigateway\\shop.apigateway\\models\\routesinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0118E1-B19C-4F5E-AEBE-204106155DE3}|Shop.ApiGateWay\\Shop.ApiGateWay.csproj|solutionrelative:shop.apigateway\\models\\routesinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0118E1-B19C-4F5E-AEBE-204106155DE3}|Shop.ApiGateWay\\Shop.ApiGateWay.csproj|c:\\diplom\\shop.apigateway\\shop.apigateway\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0118E1-B19C-4F5E-AEBE-204106155DE3}|Shop.ApiGateWay\\Shop.ApiGateWay.csproj|solutionrelative:shop.apigateway\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0118E1-B19C-4F5E-AEBE-204106155DE3}|Shop.ApiGateWay\\Shop.ApiGateWay.csproj|c:\\diplom\\shop.apigateway\\shop.apigateway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C0118E1-B19C-4F5E-AEBE-204106155DE3}|Shop.ApiGateWay\\Shop.ApiGateWay.csproj|solutionrelative:shop.apigateway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0118E1-B19C-4F5E-AEBE-204106155DE3}|Shop.ApiGateWay\\Shop.ApiGateWay.csproj|c:\\diplom\\shop.apigateway\\shop.apigateway\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0118E1-B19C-4F5E-AEBE-204106155DE3}|Shop.ApiGateWay\\Shop.ApiGateWay.csproj|solutionrelative:shop.apigateway\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0118E1-B19C-4F5E-AEBE-204106155DE3}|Shop.ApiGateWay\\Shop.ApiGateWay.csproj|c:\\diplom\\shop.apigateway\\shop.apigateway\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0118E1-B19C-4F5E-AEBE-204106155DE3}|Shop.ApiGateWay\\Shop.ApiGateWay.csproj|solutionrelative:shop.apigateway\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0118E1-B19C-4F5E-AEBE-204106155DE3}|Shop.ApiGateWay\\Shop.ApiGateWay.csproj|c:\\diplom\\shop.apigateway\\shop.apigateway\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0118E1-B19C-4F5E-AEBE-204106155DE3}|Shop.ApiGateWay\\Shop.ApiGateWay.csproj|solutionrelative:shop.apigateway\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0118E1-B19C-4F5E-AEBE-204106155DE3}|Shop.ApiGateWay\\Shop.ApiGateWay.csproj|c:\\diplom\\shop.apigateway\\shop.apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C0118E1-B19C-4F5E-AEBE-204106155DE3}|Shop.ApiGateWay\\Shop.ApiGateWay.csproj|solutionrelative:shop.apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\Controllers\\CatalogController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shop.ApiGateWay\\Controllers\\CatalogController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoutesInfo.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\Models\\RoutesInfo.cs",
+              "RelativeDocumentMoniker": "Shop.ApiGateWay\\Models\\RoutesInfo.cs",
+              "ToolTip": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\Models\\RoutesInfo.cs",
+              "RelativeToolTip": "Shop.ApiGateWay\\Models\\RoutesInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:57:24.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "Shop.ApiGateWay\\Controllers\\StatusController.cs",
+              "ToolTip": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "Shop.ApiGateWay\\Controllers\\StatusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:56:53.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Shop.ApiGateWay\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Shop.ApiGateWay\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:56:51.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Shop.ApiGateWay\\appsettings.Development.json",
+              "ToolTip": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\appsettings.Development.json",
+              "RelativeToolTip": "Shop.ApiGateWay\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-31T15:30:51.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseApiGatewayController.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\Controllers\\BaseApiGatewayController.cs",
+              "RelativeDocumentMoniker": "Shop.ApiGateWay\\Controllers\\BaseApiGatewayController.cs",
+              "ToolTip": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\Controllers\\BaseApiGatewayController.cs",
+              "RelativeToolTip": "Shop.ApiGateWay\\Controllers\\BaseApiGatewayController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T00:18:52.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Shop.ApiGateWay\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Shop.ApiGateWay\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:29:37.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Shop.ApiGateWay\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Shop.ApiGateWay\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:18:08.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\Program.cs",
+              "RelativeDocumentMoniker": "Shop.ApiGateWay\\Program.cs",
+              "ToolTip": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\Program.cs",
+              "RelativeToolTip": "Shop.ApiGateWay\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:44:14.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "Shop.ApiGateWay\\Controllers\\ArticlesController.cs",
+              "ToolTip": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\Controllers\\ArticlesController.cs",
+              "RelativeToolTip": "Shop.ApiGateWay\\Controllers\\ArticlesController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:20:29.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CatalogController.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\Controllers\\CatalogController.cs",
+              "RelativeDocumentMoniker": "Shop.ApiGateWay\\Controllers\\CatalogController.cs",
+              "ToolTip": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\Controllers\\CatalogController.cs",
+              "RelativeToolTip": "Shop.ApiGateWay\\Controllers\\CatalogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T11:17:55.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\appsettings.json",
+              "RelativeDocumentMoniker": "Shop.ApiGateWay\\appsettings.json",
+              "ToolTip": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\appsettings.json",
+              "RelativeToolTip": "Shop.ApiGateWay\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T14:44:29.089Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

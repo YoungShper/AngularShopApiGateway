@@ -1,33 +1,33 @@
-
-<div [ngClass]="layout === 'vertical' ? 'card-vertical' : 'card-horizontal'" style="cursor:pointer;" (click)="this.goToItem(item)">
-  <img *ngIf="isProduct(item); else _article" src="/placeholder.jpg">
-
+<div
+  [ngClass]="layout === 'vertical' ? 'card-vertical' : 'card-horizontal'"
+  style="cursor:pointer;"
+  (click)="this.goToItem(item)"
+>
+  <img *ngIf="isProduct(item); else _article" [src]="item.id + '.jpg'" />
   <ng-template #_article>
-    <img src="/placeholderArticles.jpg">
+    <img src="/placeholderArticles.jpg" />
   </ng-template>
+
   <div class="card-list">
-    <h3>{{item.name}}</h3>
+    <h3>{{ item.name }}</h3>
+
     <p class="description" *ngIf="isProduct(item) && layout === 'horizontal'">
-      {{ item.description }}</p>
-    <span class="price" *ngIf="isProduct(item)">
-  {{ item.price }} ₽
-</span>
+      {{ item.description }}
+    </p>
+
+    <button class="change-button" (click)="goToEdit(item)" *ngIf="isAdmin">Изменить</button>
+
+    <div class="quantity-control" *ngIf="isProduct(item) && layout === 'horizontal' && isCart" (click)="$event.stopPropagation()">
+      <button (click)="decrease(item)" class="quantity-btn">−</button>
+      <span class="quantity">{{ item.cartQuantity }}</span>
+      <button (click)="increase(item)" class="quantity-btn">+</button>
+    </div>
+
+    <div class="price-block" *ngIf="isProduct(item)">
+      <span class="original-price" *ngIf="item.discountPrice > 0">{{ item.price }} ₽</span>
+      <span class="price" [ngClass]="{ 'highlight': item.discountPrice > 0 }">
+        {{ item.discountPrice > 0 ? item.discountPrice : item.price }} ₽
+      </span>
+    </div>
   </div>
 </div>
-
-
-<!--
-<div class="card-item" style="cursor:pointer;" (click)="this.goToItem(item)">
-  <img *ngIf="isProduct(item); else _article" src="/placeholder.jpg">
-
-  <ng-template #_article>
-    <img src="/placeholderArticles.jpg">
-  </ng-template>
-  <div class="card-list">
-    <h3>{{item.name}}</h3>
-    <span class="price" *ngIf="isProduct(item)">
-  {{ item.price }} ₽
-</span>
-  </div>
-</div>
--->
