@@ -1,0 +1,26 @@
+<div *ngIf="isLoading">Загрузка...</div>
+
+<form *ngIf="!isLoading" [formGroup]="userForm" (ngSubmit)="onSubmit()">
+  <label>Имя:</label>
+  <input formControlName="name" />
+
+  <label>Фамилия:</label>
+  <input formControlName="lastName" />
+
+  <label>Город:</label>
+  <input formControlName="city" />
+
+  <label>Адрес:</label>
+  <input formControlName="address" />
+
+  <label>Почтовый индекс:</label>
+  <input formControlName="postalCode" />
+
+  <label>Email:</label>
+  <input formControlName="mail" type="email" />
+
+  <button type="submit" [disabled]="userForm.invalid">Сохранить</button>
+  <button type="button" (click)="logout()">Выйти</button>
+  <button type="button" (click)="changePassword()">Сменить пароль</button>
+</form>
+

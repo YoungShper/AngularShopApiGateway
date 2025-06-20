@@ -9,6 +9,8 @@
         {{ category.name }}
       </label>
     </div>
+
+
     <div class="price-filter">
       <label>Цена от:</label>
       <input type="number" [(ngModel)]="priceFrom" placeholder="0" />
@@ -18,8 +20,10 @@
     </div>
     <button class="btn-apply" (click)="onFiltersChanged()">Применить</button>
   </div>
+
   <div class="catalog">
     <app-searchbar (search)="onSearch($event)"></app-searchbar>
+    <button class="add-button" *ngIf="isAdmin">Добавить</button>
     <app-vertical-list [items]="products" [itemComponent]="itemCardComponent"></app-vertical-list>
     <app-pagination [totalPages]="totalPages"  (currentPageEmitter)="onPageChanged($event)"></app-pagination>
   </div>

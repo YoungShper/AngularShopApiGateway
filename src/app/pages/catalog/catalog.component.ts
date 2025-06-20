@@ -9,6 +9,7 @@ import {SearchbarComponent} from '../../components/searchbar/searchbar.component
 import {FormsModule} from '@angular/forms';
 import {CommonModule} from '@angular/common';
 import {ActivatedRoute, Router} from '@angular/router';
+import {AuthService} from '../../services/auth-service';
 @Component({
   selector: 'app-catalog',
   imports: [
@@ -23,7 +24,7 @@ import {ActivatedRoute, Router} from '@angular/router';
 })
 export class CatalogComponent implements OnInit {
   private searchQuery: string | null = null;
-  constructor(private http: HttpService, private route: ActivatedRoute, private router: Router) {
+  constructor(private http: HttpService, private route: ActivatedRoute, private router: Router, private auth:AuthService) {
   }
   public products!: Product[];
   public pagedItems!: PagedData<Product>;
@@ -33,11 +34,13 @@ export class CatalogComponent implements OnInit {
   public totalPages!: number;
   public categories! : CategoryModel[];
   selectedCategories: { [id: string]: boolean } = {};
+  public isAdmin: boolean = false;
 
   protected readonly itemCardComponent = ItemCardComponent;
 
   ngOnInit()
   {
+    this.isAdmin = this.auth.getUser()?.isAdmin ?? false;
     this.http.getData<CategoryModel>('categories').subscribe(prod =>  this.categories = prod);
 
     this.route.queryParams.subscribe(params => {

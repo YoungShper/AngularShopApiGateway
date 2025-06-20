@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\diplom\\Shop.CartService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|c:\\diplom\\shop.cartservice\\shop.cartservice\\backgroundservices\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|solutionrelative:shop.cartservice\\backgroundservices\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|c:\\diplom\\shop.cartservice\\shop.cartservice\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|solutionrelative:shop.cartservice\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|c:\\diplom\\shop.cartservice\\shop.cartservice\\repository\\statusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|solutionrelative:shop.cartservice\\repository\\statusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|c:\\diplom\\shop.cartservice\\shop.cartservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|solutionrelative:shop.cartservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|c:\\diplom\\shop.cartservice\\shop.cartservice\\providers\\rabbitmqprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|solutionrelative:shop.cartservice\\providers\\rabbitmqprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|c:\\diplom\\shop.cartservice\\shop.cartservice\\interfaces\\irabbitmqprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|solutionrelative:shop.cartservice\\interfaces\\irabbitmqprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|c:\\diplom\\shop.cartservice\\shop.cartservice\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|solutionrelative:shop.cartservice\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|c:\\diplom\\shop.cartservice\\shop.cartservice\\interfaces\\idbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|solutionrelative:shop.cartservice\\interfaces\\idbrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|c:\\diplom\\shop.cartservice\\shop.cartservice\\providers\\postgresprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|solutionrelative:shop.cartservice\\providers\\postgresprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|c:\\diplom\\shop.cartservice\\shop.cartservice\\interfaces\\idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|solutionrelative:shop.cartservice\\interfaces\\idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|c:\\diplom\\shop.cartservice\\shop.cartservice\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|solutionrelative:shop.cartservice\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|c:\\diplom\\shop.cartservice\\shop.cartservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|solutionrelative:shop.cartservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|c:\\diplom\\shop.cartservice\\shop.cartservice\\shop.cartservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{18EC6AE4-FEC8-46E2-BEA7-489E8D58C7EA}|Shop.CartService\\Shop.CartService.csproj|solutionrelative:shop.cartservice\\shop.cartservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "Shop.CartService\\Controllers\\StatusController.cs",
+              "ToolTip": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "Shop.CartService\\Controllers\\StatusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:39:02.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RabbitMQProvider.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Providers\\RabbitMQProvider.cs",
+              "RelativeDocumentMoniker": "Shop.CartService\\Providers\\RabbitMQProvider.cs",
+              "ToolTip": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Providers\\RabbitMQProvider.cs",
+              "RelativeToolTip": "Shop.CartService\\Providers\\RabbitMQProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T17:16:43.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitMQConsumer.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.CartService\\Shop.CartService\\BackgroundServices\\RabbitMQConsumer.cs",
+              "RelativeDocumentMoniker": "Shop.CartService\\BackgroundServices\\RabbitMQConsumer.cs",
+              "ToolTip": "C:\\diplom\\Shop.CartService\\Shop.CartService\\BackgroundServices\\RabbitMQConsumer.cs",
+              "RelativeToolTip": "Shop.CartService\\BackgroundServices\\RabbitMQConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAACqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:53:03.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRabbitMQProvider.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Interfaces\\IRabbitMQProvider.cs",
+              "RelativeDocumentMoniker": "Shop.CartService\\Interfaces\\IRabbitMQProvider.cs",
+              "ToolTip": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Interfaces\\IRabbitMQProvider.cs",
+              "RelativeToolTip": "Shop.CartService\\Interfaces\\IRabbitMQProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T17:32:40.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatusRepository.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Repository\\StatusRepository.cs",
+              "RelativeDocumentMoniker": "Shop.CartService\\Repository\\StatusRepository.cs",
+              "ToolTip": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Repository\\StatusRepository.cs",
+              "RelativeToolTip": "Shop.CartService\\Repository\\StatusRepository.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwBIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T18:54:58.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Repository\\CartRepository.cs",
+              "RelativeDocumentMoniker": "Shop.CartService\\Repository\\CartRepository.cs",
+              "ToolTip": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Repository\\CartRepository.cs",
+              "RelativeToolTip": "Shop.CartService\\Repository\\CartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:48:08.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\diplom\\Shop.CartService\\Shop.CartService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Shop.CartService\\appsettings.Development.json",
+              "ToolTip": "C:\\diplom\\Shop.CartService\\Shop.CartService\\appsettings.Development.json",
+              "RelativeToolTip": "Shop.CartService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-07T17:02:39.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PostgresProvider.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Providers\\PostgresProvider.cs",
+              "RelativeDocumentMoniker": "Shop.CartService\\Providers\\PostgresProvider.cs",
+              "ToolTip": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Providers\\PostgresProvider.cs",
+              "RelativeToolTip": "Shop.CartService\\Providers\\PostgresProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:51:03.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDBService.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Interfaces\\IDBService.cs",
+              "RelativeDocumentMoniker": "Shop.CartService\\Interfaces\\IDBService.cs",
+              "ToolTip": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Interfaces\\IDBService.cs",
+              "RelativeToolTip": "Shop.CartService\\Interfaces\\IDBService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:47:52.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDbRepository.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Interfaces\\IDbRepository.cs",
+              "RelativeDocumentMoniker": "Shop.CartService\\Interfaces\\IDbRepository.cs",
+              "ToolTip": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Interfaces\\IDbRepository.cs",
+              "RelativeToolTip": "Shop.CartService\\Interfaces\\IDbRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:47:46.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Shop.CartService\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Shop.CartService\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T21:17:51.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Program.cs",
+              "RelativeDocumentMoniker": "Shop.CartService\\Program.cs",
+              "ToolTip": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Program.cs",
+              "RelativeToolTip": "Shop.CartService\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:55:43.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Shop.CartService",
+              "DocumentMoniker": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Shop.CartService.csproj",
+              "RelativeDocumentMoniker": "Shop.CartService\\Shop.CartService.csproj",
+              "ToolTip": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Shop.CartService.csproj",
+              "RelativeToolTip": "Shop.CartService\\Shop.CartService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-07T20:41:16.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "uWkvBXi0cy+5WqP5JdXYI9rCDTEJZyTcye+TzU5Vmjw=",
+  "Source": "Shop.AuthService",
+  "BasePath": "_content/Shop.AuthService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
