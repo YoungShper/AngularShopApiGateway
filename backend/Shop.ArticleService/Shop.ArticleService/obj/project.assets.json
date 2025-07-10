@@ -370,11 +370,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\diplom\\Shop.ArticleService\\Shop.ArticleService\\Shop.ArticleService.csproj",
+      "projectUniqueName": "C:\\diplom-frontend\\AngularShop\\backend\\Shop.ArticleService\\Shop.ArticleService\\Shop.ArticleService.csproj",
       "projectName": "Shop.ArticleService",
-      "projectPath": "C:\\diplom\\Shop.ArticleService\\Shop.ArticleService\\Shop.ArticleService.csproj",
+      "projectPath": "C:\\diplom-frontend\\AngularShop\\backend\\Shop.ArticleService\\Shop.ArticleService\\Shop.ArticleService.csproj",
       "packagesPath": "C:\\Users\\Shper\\.nuget\\packages\\",
-      "outputPath": "C:\\diplom\\Shop.ArticleService\\Shop.ArticleService\\obj\\",
+      "outputPath": "C:\\diplom-frontend\\AngularShop\\backend\\Shop.ArticleService\\Shop.ArticleService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",
