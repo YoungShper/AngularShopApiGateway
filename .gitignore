@@ -40,3 +40,10 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+
+/backend/*/*/bin/
+/backend/*/*/obj/
+/backend/*/*/*.user
+/backend/*/*/*.log
+/backend/*/*/*.suo

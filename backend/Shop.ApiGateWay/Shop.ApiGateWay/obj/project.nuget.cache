@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B9Dg5p8g6Kg=",
+  "dgSpecHash": "SnBX66g0lN8=",
   "success": true,
-  "projectFilePath": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\Shop.ApiGateWay.csproj",
+  "projectFilePath": "C:\\diplom-frontend\\AngularShop\\backend\\Shop.ApiGateWay\\Shop.ApiGateWay\\Shop.ApiGateWay.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shper\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.16\\microsoft.aspnetcore.authentication.jwtbearer.8.0.16.nupkg.sha512",
     "C:\\Users\\Shper\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",

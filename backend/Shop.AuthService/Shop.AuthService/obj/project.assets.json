@@ -783,11 +783,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Shop.AuthService.csproj",
+      "projectUniqueName": "C:\\diplom-frontend\\AngularShop\\backend\\Shop.AuthService\\Shop.AuthService\\Shop.AuthService.csproj",
       "projectName": "Shop.AuthService",
-      "projectPath": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Shop.AuthService.csproj",
+      "projectPath": "C:\\diplom-frontend\\AngularShop\\backend\\Shop.AuthService\\Shop.AuthService\\Shop.AuthService.csproj",
       "packagesPath": "C:\\Users\\Shper\\.nuget\\packages\\",
-      "outputPath": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\obj\\",
+      "outputPath": "C:\\diplom-frontend\\AngularShop\\backend\\Shop.AuthService\\Shop.AuthService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",

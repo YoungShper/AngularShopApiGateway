@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zbNbeMdRvDk=",
+  "dgSpecHash": "jgrKD5/qtQE=",
   "success": true,
-  "projectFilePath": "C:\\diplom\\Shop.AuthService\\Shop.AuthService\\Shop.AuthService.csproj",
+  "projectFilePath": "C:\\diplom-frontend\\AngularShop\\backend\\Shop.AuthService\\Shop.AuthService\\Shop.AuthService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shper\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Shper\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",

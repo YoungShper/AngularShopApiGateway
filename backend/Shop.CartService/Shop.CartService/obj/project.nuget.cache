@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aiipG/XtCPc=",
+  "dgSpecHash": "q3Q3wkxUpTw=",
   "success": true,
-  "projectFilePath": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Shop.CartService.csproj",
+  "projectFilePath": "C:\\diplom-frontend\\AngularShop\\backend\\Shop.CartService\\Shop.CartService\\Shop.CartService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shper\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
     "C:\\Users\\Shper\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
