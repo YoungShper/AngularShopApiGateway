@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\Shop.ApiGateWay.csproj": {}
+    "C:\\diplom-frontend\\AngularShop\\backend\\Shop.ApiGateWay\\Shop.ApiGateWay\\Shop.ApiGateWay.csproj": {}
   },
   "projects": {
-    "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\Shop.ApiGateWay.csproj": {
+    "C:\\diplom-frontend\\AngularShop\\backend\\Shop.ApiGateWay\\Shop.ApiGateWay\\Shop.ApiGateWay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\Shop.ApiGateWay.csproj",
+        "projectUniqueName": "C:\\diplom-frontend\\AngularShop\\backend\\Shop.ApiGateWay\\Shop.ApiGateWay\\Shop.ApiGateWay.csproj",
         "projectName": "Shop.ApiGateWay",
-        "projectPath": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\Shop.ApiGateWay.csproj",
+        "projectPath": "C:\\diplom-frontend\\AngularShop\\backend\\Shop.ApiGateWay\\Shop.ApiGateWay\\Shop.ApiGateWay.csproj",
         "packagesPath": "C:\\Users\\Shper\\.nuget\\packages\\",
-        "outputPath": "C:\\diplom\\Shop.ApiGateWay\\Shop.ApiGateWay\\obj\\",
+        "outputPath": "C:\\diplom-frontend\\AngularShop\\backend\\Shop.ApiGateWay\\Shop.ApiGateWay\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",

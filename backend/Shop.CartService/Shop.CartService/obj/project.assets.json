@@ -539,11 +539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Shop.CartService.csproj",
+      "projectUniqueName": "C:\\diplom-frontend\\AngularShop\\backend\\Shop.CartService\\Shop.CartService\\Shop.CartService.csproj",
       "projectName": "Shop.CartService",
-      "projectPath": "C:\\diplom\\Shop.CartService\\Shop.CartService\\Shop.CartService.csproj",
+      "projectPath": "C:\\diplom-frontend\\AngularShop\\backend\\Shop.CartService\\Shop.CartService\\Shop.CartService.csproj",
       "packagesPath": "C:\\Users\\Shper\\.nuget\\packages\\",
-      "outputPath": "C:\\diplom\\Shop.CartService\\Shop.CartService\\obj\\",
+      "outputPath": "C:\\diplom-frontend\\AngularShop\\backend\\Shop.CartService\\Shop.CartService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",
